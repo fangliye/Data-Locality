@@ -1,7 +1,7 @@
 <h2>22/05- 26/05</h2>
-Read paper. Delay scheduling a simple technique for achieving locality and fairness in cluster scheduling.pdf
-Import Hadoop source code to eclips.
-Contacted with Euggen asking for some available machines for seting up hadoop cluster.
+    <p> 1. Read paper. Delay scheduling a simple technique for achieving locality and fairness in cluster scheduling.pdf</p>
+<p>2. Import Hadoop source code to eclips.</p>
+<p>3. Contacted with Euggen asking for some available machines for seting up hadoop cluster.</p>
  29/05- 02/06
 29/05: set up ubuntu(operating system) in the vmware.  - Done
       Problems:

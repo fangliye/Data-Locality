@@ -38,13 +38,14 @@
                    [link]http://han-zw.iteye.com/blog/2322189[/link]
              c. Euggen helps me to solve network problem connecting the master machine using campus wifi. and from master machine connect other three slaves
              
-<p> 4. 01/06: learn how to set the fair-scheduler in the hadoop and how does it work. the default scheduler is capitably. - Done </p>
+<p> 4. 01/06: learn how to set the fair-scheduler in the hadoop and how does it work. the default scheduler is capitably. - Done</p>
 
 <p> 5. 02/06:  try to run simple job using fair scheduler, and try to analysis the whole processes. </p>
   
                      - Don’t know how to see that node requests task log.
  
 <h2>06/06-10/06 (Plan)</h2>
+
 <p>1.install the hadoop source code in my eclipse.</p>
 <p>2.learn the yarn framework of hadoop.</p>
 <p>3.hava a rugh plan about how to implement coding.</p>

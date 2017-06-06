@@ -2,8 +2,8 @@
     <p> 1. Read paper. Delay scheduling a simple technique for achieving locality and fairness in cluster scheduling.pdf</p>
 <p>2. Import Hadoop source code to eclips.</p>
 <p>3. Contacted with Euggen asking for some available machines for seting up hadoop cluster.</p>
- 29/05- 02/06
-29/05: set up ubuntu(operating system) in the vmware.  - Done
+ <h2>29/05- 02/06</h2>
+<p> 29/05: set up ubuntu(operating system) in the vmware.  - Done </p>
       Problems:
        a. in the ubuntu can not see the shared folder.
            $sudo apt-get install open-vm-tools open-vm-tools-dkms
@@ -33,7 +33,7 @@
               $nano /usr/local/hadoop/etc/hadoop/hadoop-en.sh
                export JAVA_HOME=/usr/local/jvm/jdk-8-oracle
                b. read the details about the allocation file about fire-scheduler
-                   http://han-zw.iteye.com/blog/2322189
+                   [link]http://han-zw.iteye.com/blog/2322189[/link]
              c Euggen helps me to solve network problem connecting the master machine using campus wifi. and from master machine connect other three slaves
    4. 01/06: learn how to set the fair-scheduler in the hadoop and how does it work. the default scheduler is capitably.  - Done
    5. 02/06:  try to run simple job using fair scheduler, and try to analysis the whole processes.  

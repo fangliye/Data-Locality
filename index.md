@@ -44,10 +44,26 @@
   
                      - Don’t know how to see that node requests task log.
  
-<h2>06/06-10/06 (Plan)</h2>
+<h2>06/06-10/06</h2>
 
 <p>1.install the hadoop source code in my eclipse.</p>
 <p>2.learn the yarn framework of hadoop.</p>
+
 <p>3.hava a rugh plan about how to implement coding.</p>
-<p>4.How to compile new code. </p>
+<p>4.How to compile new code. -Done </p>
+
+  a. Compile the hadoop source code which are used to install hadoop cluster.
+     - Install apache maven 3.0.5
+     - Install apache ant 1.9.4
+     - Install apache protocal 2.5.0
+     How to install the compiling enviornment in ubuntu.
+     url: [http://blog.csdn.net/blue_it/article/details/54133407]
+     Problems:
+     a. Failed to execute goal org.apache.maven.plugins:maven-antrun-plugin:1.7:
+        $sudo chown -R ca786 hadoop-2.7.3-src
+        $cd hadoop-2.7.3-src
+        $mvn install -DskipTests
+        
+
+
 

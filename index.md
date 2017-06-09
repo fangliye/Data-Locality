@@ -1,8 +1,8 @@
-<h4>22/05- 26/05</h4>
+<h3>22/05- 26/05</h3>
 <p>1. Read paper. Delay scheduling a simple technique for achieving locality and fairness in cluster scheduling.pdf. </p>
 <p>2. Import Hadoop source code to eclips.</p>
 <p>3. Contacted with Euggen asking for some available machines for seting up hadoop cluster.</p>
- <h4>29/05- 02/06</h4>
+<h3>29/05- 02/06</h3>
 <p> 1. 29/05: set up ubuntu(operating system) in the vmware.  - Done </p>
 
           Problems:
@@ -44,7 +44,7 @@
   
                      - Don’t know how to see that node requests task log.
  
-<h4>06/06-10/06</h4>
+<h3>06/06-10/06</h3>
 
 <p>1.install the hadoop source code in my eclipse.</p>
 <p>2.learn the yarn framework of hadoop.</p>

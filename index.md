@@ -56,7 +56,6 @@
 <p>1.Importing Hadoop projects to eclipse</p>
 
     a. Installation
-    
        -Hadoop 2.7.3 source code
        -Install apache maven 3.0.5
        -Install protocolBuffer 2.5.0
@@ -71,7 +70,6 @@
        [File] > [Import] > [Existing Projects into Workspace].
        
     b. Problem
-    
       -when I imported the hadoop source code into the eclips there are some errors in some packages. I tried many methods to solve them       but all of them didn't work. But there are no any errors in the yarn package, and I just need to make some change in the yarn           package. So, these errors can be ignored. 
    
 <p>2.learn the fair schedule.</p>
@@ -82,14 +80,12 @@
 <p>4.How to compile new code. -Done </p>
  
     a. Create binary distributions.
-    
        -Compile the hadoop source code which can be used to set up hadoop cluster.
         $ mvn package -Pdist,native -DskipTests -Dtar
         How to install the compiling enviornment in ubuntu.
         url: [http://blog.csdn.net/blue_it/article/details/54133407]
         
-    b. Problems:
-    
+    b. Problems
        -there were some package build failed
         Failed to execute goal org.apache.maven.plugins:maven-antrun-plugin:1.7:
         $ mvn package -Pdist -DskipTests -Dtar   //remove the native, and then build successfule.

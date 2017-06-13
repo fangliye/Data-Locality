@@ -1,5 +1,4 @@
-<p>    My proposed practicum is about MapReduce Scheduling Algorithm based on Cloud platform. As MapReduce Cloud platform has a high efficiency and simplicity characteristics, it attracts the academia and industry attentions. While the data locality problem is the key factor of affecting the cluster performance. If there are no data locality tasks, the computing needs to remote read the input data from other nodes before execution, which will cause the completion time to lengthen. So, more data locality tasks will make the cluster performance higher. </p>
-<p>    I am planning to do research based on how to increase the data locality tasks to improve the cluster performance. </p>
+
 
 
 <h2>22/05- 26/05</h2>
